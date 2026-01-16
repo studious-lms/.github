@@ -32,37 +32,73 @@ Studious is built for:
 
 ### Dark mode
 
-**Dark dashboard** — high-contrast status cards and class shortcuts.
-![Dark dashboard](../images/dark_hero.png)
-
-**Dark classes** — organized class tiles with a calm dark palette.
-![Dark classes](../images/dark_classes.png)
-
-**Dark agenda** — week view optimized for low-light planning.
-![Dark agenda](../images/dark_agenda.png)
-
-**Dark worksheet AI** — assistant view tuned for long sessions.
-![Dark worksheet AI](../images/dark_worksheet-ai.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="../images/dark_hero.png" width="360" alt="Dark dashboard" />
+      <br />
+      <sub>High-contrast status cards and class shortcuts.</sub>
+    </td>
+    <td align="center">
+      <img src="../images/dark_classes.png" width="360" alt="Dark classes" />
+      <br />
+      <sub>Organized class tiles with a calm dark palette.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../images/dark_agenda.png" width="360" alt="Dark agenda" />
+      <br />
+      <sub>Week view optimized for low-light planning.</sub>
+    </td>
+    <td align="center">
+      <img src="../images/dark_worksheet-ai.png" width="360" alt="Dark worksheet AI" />
+      <br />
+      <sub>Assistant view tuned for long sessions.</sub>
+    </td>
+  </tr>
+</table>
 
 ### Light mode
 
-**Light dashboard** — quick status cards and class shortcuts at a glance.
-![Light dashboard](../images/light_hero.jpeg)
-
-**Light classes** — a clean list view for teaching and enrolled sections.
-![Light classes](../images/light_classes.jpeg)
-
-**Light agenda** — a week view that surfaces time blocks and conflicts early.
-![Light agenda](../images/light_agenda.jpeg)
-
-**Light assignments** — clear sections, progress indicators, and due-date control.
-![Light assignments](../images/light_assignments.jpeg)
-
-**Light messages** — focused conversations with students and groups.
-![Light messages](../images/light_messages.jpeg)
-
-**Light worksheet AI** — inline AI assistant for generating worksheets fast.
-![Light worksheet AI](../images/light_worksheet-ai.jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="../images/light_hero.jpeg" width="360" alt="Light dashboard" />
+      <br />
+      <sub>Quick status cards and class shortcuts at a glance.</sub>
+    </td>
+    <td align="center">
+      <img src="../images/light_classes.jpeg" width="360" alt="Light classes" />
+      <br />
+      <sub>Clean list view for teaching and enrolled sections.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../images/light_agenda.jpeg" width="360" alt="Light agenda" />
+      <br />
+      <sub>Week view that surfaces time blocks and conflicts early.</sub>
+    </td>
+    <td align="center">
+      <img src="../images/light_assignments.jpeg" width="360" alt="Light assignments" />
+      <br />
+      <sub>Clear sections, progress indicators, and due-date control.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../images/light_messages.jpeg" width="360" alt="Light messages" />
+      <br />
+      <sub>Focused conversations with students and groups.</sub>
+    </td>
+    <td align="center">
+      <img src="../images/light_worksheet-ai.jpeg" width="360" alt="Light worksheet AI" />
+      <br />
+      <sub>Inline AI assistant for generating worksheets fast.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Project links
 
