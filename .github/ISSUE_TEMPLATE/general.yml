@@ -1,6 +1,6 @@
 name: General Issue
 description: For questions, discussions, or other general issues
-title: "[General]: "
+title: "general: "
 labels: ["question"]
 assignees: []
 body:
